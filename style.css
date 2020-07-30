@@ -1,0 +1,170 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    width: 100%;
+}
+.page_1{
+    padding: 0;
+    margin: 0;
+    background:#87509c;
+    
+}
+.content{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    padding-top: 70px;
+    padding-left:  634px;
+    padding-right: 195px;
+}
+nav a{
+    
+    margin-left: 45px;
+    text-decoration: none;
+    font: "titillium web";
+    font-size: 16px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+nav a:hover{
+    border: 9px solid #643a79;
+    border-radius: 5%;
+    background: #643a79;;
+}
+.logo{
+    padding: 57px 0 0 212px;
+    float: left;
+}
+.text{
+    text-align: center;
+    color: #f7f3ea;
+    font-family: "titillium web bold";
+    font-size: 42px;
+}
+.content .text{
+    padding: 239px 267px 209px;
+}
+.button a{
+    font-size: 18px;
+    color: #ffffff;
+    background: #eb7d4b;
+    text-decoration: none;
+    text-transform: uppercase;
+    font: 400;
+    padding: 28px 81px;
+    border-radius: 5%;
+}
+.button{
+    margin-top: 54px;
+    margin-bottom: 154px;
+}
+/*===================Page 2======================*/
+.page_2{
+    margin: 0;
+    background: #17c2a4;
+    padding-top: 119px;
+}
+.conteiner .line{
+    width: 30%;
+    padding-left: 35%;
+    margin: 0;
+    text-align: center;
+}
+h1{
+    color: #ffffff;
+    text-align: center;
+}
+.conteiner p{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    padding-top: 23px;
+    padding-bottom: 45px;
+}
+.pic{
+    height: 100%;
+    padding-top: 78px;
+    padding-left: 160px;
+}
+.pic .pen, .gears, .rocket{
+    padding-left: 90px;
+    color: white;
+}
+.flag{
+    float: left;
+    text-align: center;
+    color: white;
+}
+.pen{
+    float: left;
+    text-align: center;
+}
+.gears{
+    float: left;
+    text-align: center;
+}
+.rocket{
+    padding-right: 80px;
+    text-align: center;
+}
+/*=====================================*/
+.page_3{
+    margin: 0;
+    background: #e7f1f8;
+    padding-top: 119px;
+}
+.conteiner_2 .line{
+    width: 30%;
+    padding-left: 35%;
+    margin: 0;
+    text-align: center;
+}
+.text_2 h1{
+    color: #3c4761;
+    text-align: center;
+}
+.conteiner_2 p{
+    text-align: center;
+    color: #3c4761;
+    font-size: 18px;
+    padding-top: 23px;
+    padding-bottom: 45px;
+}
+    .avatar{
+        height: 100%;
+        padding-top: 78px;
+        padding-left: 160px;
+    }
+    .avatar a{
+        text-decoration: none;
+        padding-top: 15px;
+        padding-bottom: 27px;
+    }
+    /*{
+        padding-top: 15px;
+    padding-bottom: 27px;
+    }*/
+    .avatar .kate, .olivia, .ashley{
+        padding-left: 90px;
+        color: #3c4761;
+    }
+    .anne{
+        float: left;
+        text-align: center;
+        color: #3c4761;
+    }
+    .kate{
+        float: left;
+        text-align: center;
+    }
+    .olivia{
+        float: left;
+        text-align: center;
+    }
+    .ashley{
+        padding-right: 80px;
+        text-align: center;
+    }
